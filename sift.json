@@ -3,7 +3,7 @@
   "display-name": "Happy Sift",
   "description": "",
   "author": "",
-  "version": "1.10.1",
+  "version": "1.11.1",
   "icon": "assets/blueprint.svg",
   "interfaces": {
     "email": {
